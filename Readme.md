@@ -37,7 +37,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Authors
 
-- **Mohamed Abusaif** - _Initial work_ - [PurpleBooth](https://github.com/Mohamed-Abusaif)
+- **Mohamed Abusaif** - _Initial work_ - [Mohamed-Abusaif](https://github.com/Mohamed-Abusaif)
 
 ## License
 
